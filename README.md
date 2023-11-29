@@ -134,6 +134,9 @@ map.html
 ![Screenshot 2023-11-29 210442](https://github.com/sreenithi23/Ex-04-webTech_imagemap/assets/147017600/54e61289-a33c-4a5a-b786-100224a12631)
 
 
+ ## Result
+ The output was verified successfully
+
 
 
 
