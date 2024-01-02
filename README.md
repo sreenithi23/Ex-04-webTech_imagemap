@@ -135,7 +135,7 @@ map.html
 
 
  ## Result
- The output was verified successfully
+ The output was verified successfully.
 
 
 
@@ -144,5 +144,4 @@ map.html
 
 
 
-# Result:
 
